@@ -384,6 +384,30 @@ SKYSCRAPPER
   display: none;
 }
 
+.advert,
+.advert2,
+#skyscrapper{
+  border: 1px solid white;
+  background-color: #DCDCDC;  
+}
+
+.placer,
+.placer2,
+.placerSkycrapper{
+  padding-top: 30px;
+  font-size: 1.7em;
+  font-style: italic;
+  color: #E8E8E8;
+}
+
+.placer2{
+  color: #E8E8E8;
+}
+
+.placerSkycrapper{
+  margin-left: 20px;
+}
+
 
 
 /*************
@@ -562,6 +586,8 @@ h1 {
  
 }
 
+
+
 .lines {
   display: none;
 }
@@ -657,6 +683,8 @@ GALLERY
    font-size: 1em;
    width: 100%;
 }
+
+
 
 }
 
