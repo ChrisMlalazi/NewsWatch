@@ -69,24 +69,6 @@ a {
 
 }
 
-.advert {
-
-    height: 100px;
-    margin-top: -180px;
-    margin-bottom: 180px;
-    width: 100%;
-    text-align: center;
-}
-
-.advert2{
-    height: 100px;
-    width: 100%;
-    top: 0;
-    clear: both;
-    text-align: center;
-
-}
-
 .blurb1 {
   position: relative;
   bottom: 150px;
@@ -379,12 +361,6 @@ SKYSCRAPPER
 
 ********************/
 
-
-#skyscrapper {
-  display: none;
-}
-
-
 /*************
 FOOTER
 ******************/
@@ -548,19 +524,6 @@ h1 {
   width: 75%;
   float: left;
 }
-
-#skyscrapper{
-
-  float: right;
-  width: 24%;
-  height:100vh;
-  margin-right: 2px;
-  padding: 3px;
-  display: block;
-  clear: both;
- 
-}
-
 
 
 .lines {
